@@ -1,0 +1,1 @@
+from pygal.i18n import COUNTRIES
