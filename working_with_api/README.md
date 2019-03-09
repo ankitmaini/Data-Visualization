@@ -11,3 +11,6 @@ To write a program to automatically download information about the most-starred 
 
 # Requesting Data using an API call
 https://api.github.com/search/reositories?q=language:pythono&sort=stars
+
+# Requests Package
+The requests package allows a Python program to easily request information from a website and examine the response that's returned.
